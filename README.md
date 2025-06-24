@@ -1,24 +1,30 @@
-# 👩🏻‍💻 Higor Guilherme
+# 👨‍💻 Higor Guilherme
 
 **`Desenvolvedor Web Full Stack`**
 
-Me chamo Higor Guilherme Gomes de Santana, tenho 23 anos e sou de São Paulo. Cursei Análise e Desenvolvimento de Sistemas na FIAP, complementando meus estudos com cursos online. Atualmente, continuo aprendendo de forma autodidata para aprofundar meus conhecimentos em tecnologia e desenvolvimento. Sou apaixonado por inovação tecnológica e jogos.
+Sou Higor Guilherme, desenvolvedor web full stack com 23 anos, baseado em São Paulo. Iniciei meus estudos em Análise e Desenvolvimento de Sistemas na FIAP e sigo aprimorando minhas habilidades por meio de cursos especializados e projetos práticos.
+
+Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções completas — tanto no front-end quanto no back-end. Atualmente, foco meus estudos e projetos em React, Node.js, MongoDB e Firebase.
+
+Busco sempre melhorar minhas habilidades com projetos próprios e estou aberto a oportunidades e colaborações na área de tecnologia e desenvolvimento web.
+
 <p align="left">
-    <a href="https://github.com/higorgsantana?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/higorgsantana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/higorgsantana?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/higorgsantana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/higorgsantana?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/higorgsantana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/higorgsantana?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/higorgsantana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
 </p>
+
 
 ---
 
