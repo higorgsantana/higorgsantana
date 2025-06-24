@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Full Stack`**
 
-Sou Higor Guilherme, desenvolvedor web full stack com 23 anos, baseado em São Paulo. Iniciei meus estudos em Análise e Desenvolvimento de Sistemas na FIAP e sigo aprimorando minhas habilidades por meio de cursos especializados e projetos práticos.
+Sou Higor Guilherme, desenvolvedor web full stack com 24 anos, baseado em São Paulo. Iniciei meus estudos em Análise e Desenvolvimento de Sistemas na FIAP e sigo aprimorando minhas habilidades por meio de cursos especializados e projetos práticos.
 
 Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções completas — tanto no front-end quanto no back-end. Atualmente, foco meus estudos e projetos em React, Node.js, MongoDB e Firebase.
 
