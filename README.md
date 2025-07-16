@@ -62,6 +62,15 @@ Busco sempre melhorar minhas habilidades com projetos próprios e estou aberto a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Next"
+    title="Next" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  
+/>
+
 <img
     align="left" 
     alt="Node"
@@ -85,6 +94,14 @@ Busco sempre melhorar minhas habilidades com projetos próprios e estou aberto a
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+/>
+<img
+    align="left" 
+    alt="Tailwind"
+    title="Tailwind" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img 
     align="left" 
