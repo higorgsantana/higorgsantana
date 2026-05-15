@@ -20,6 +20,6 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em interfaces que fun
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorgsantana&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorgsantana&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorgsantana&layout=compact&hide_border=true)
 
